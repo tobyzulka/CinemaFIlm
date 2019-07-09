@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:paddingBottom="10dp" android:paddingTop="5dp">
+
+    <ImageView
+            android:id="@+id/PosterID"
+            android:layout_width="99dp"
+            android:layout_height="120dp" />
+
+    <RelativeLayout android:layout_width="match_parent"
+                    android:layout_height="120dp">
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="25dp"
+                android:id="@+id/Judul"
+                android:text="Judul"
+                android:textSize="18sp"
+                android:textStyle="bold"/>
+        <TextView
+                android:id="@+id/Rating"
+                android:layout_below="@+id/Judul"
+                android:layout_width="30dp"
+                android:layout_height="20dp"
+                android:textColor="@color/colorPrimaryDark"
+                android:padding="2dp"
+                android:text="Rating"/>
+        <TextView
+                android:id="@+id/Genre"
+                android:layout_below="@+id/Judul"
+                android:layout_toRightOf="@+id/Rating"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:padding="2dp"
+                android:text="Genre"/>
+        <TextView
+                android:id="@+id/Deskripsi"
+                android:layout_below="@+id/Rating"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:justificationMode="inter_word"
+                android:text="Deskripsi"
+                android:padding="2dp"/>
+
+
+    </RelativeLayout>
+</LinearLayout>
