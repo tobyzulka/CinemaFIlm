@@ -7,15 +7,25 @@
     <ImageView
             android:id="@+id/PosterID"
             android:layout_width="99dp"
-            android:layout_height="120dp" />
+            android:layout_height="120dp"
+            android:src="@mipmap/ic_launcher"/>
 
     <RelativeLayout android:layout_width="match_parent"
                     android:layout_height="120dp">
         <TextView
-                android:layout_width="match_parent"
+            android:layout_width="wrap_content"
+            android:layout_height="25dp"
+            android:id="@+id/Judul"
+            android:text="Judul"
+            android:textSize="18sp"
+            android:textStyle="bold"/>
+        <TextView
+                android:layout_width="wrap_content"
+                android:layout_marginLeft="3dp"
                 android:layout_height="25dp"
-                android:id="@+id/Judul"
-                android:text="Judul"
+                android:id="@+id/Tahun"
+                android:layout_toRightOf="@+id/Judul"
+                android:text="Tahun"
                 android:textSize="18sp"
                 android:textStyle="bold"/>
         <TextView
@@ -35,12 +45,12 @@
                 android:padding="2dp"
                 android:text="Genre"/>
         <TextView
-                android:id="@+id/Deskripsi"
+                android:id="@+id/Plot"
                 android:layout_below="@+id/Rating"
                 android:layout_width="match_parent"
                 android:layout_height="100dp"
                 android:justificationMode="inter_word"
-                android:text="Deskripsi"
+                android:text="Plot"
                 android:padding="2dp"/>
 
 
