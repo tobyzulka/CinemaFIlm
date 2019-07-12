@@ -1,0 +1,132 @@
+{
+  "film": [
+    {
+      "judul": "Avatar",
+      "tahun": "2009",
+      "release": "18 Dec 2009",
+      "genre": "Action, Adventure, Fantasy",
+      "direktur": "James Cameron",
+      "penulis": "James Cameron",
+      "aktor": "Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang",
+      "plot": "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+      "poster": "https://image.tmdb.org/t/p/original/kmcqlZGaSh20zpTbuoF0Cdn07dT.jpg",
+      "rating": "7.9"
+
+    },
+    {
+      "judul": "I Am Legend",
+      "tahun": "2007",
+      "release": "14 Dec 2007",
+      "genre": "Drama, Horror, Sci-Fi",
+      "direktur": "Francis Lawrence",
+      "penulis": "Mark Protosevich, Akiva Goldsman, Richard Matheson, John William Corrington, Joyce Hooper Corrington",
+      "aktor": "Will Smith, Alice Braga, Charlie Tahan, Salli Richardson-Whitfield",
+      "plot": "Years after a plague kills most of humanity and transforms the rest into monsters, the sole survivor in New York City struggles valiantly to find a cure.",
+      "poster": "https://image.tmdb.org/t/p/original/9skUuHTFtsJznuFPwmB17ZZvq09.jpg",
+      "rating": "7.2"
+
+    },
+    {
+      "judul": "The Avengers",
+      "tahun": "2012",
+      "release": "04 May 2012",
+      "genre": "Action, Sci-Fi, Thriller",
+      "direktur": "Joss Whedon",
+      "penulis": "Joss Whedon, Zak Penn, Joss Whedon",
+      "aktor": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+      "plot": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.",
+      "poster": "https://image.tmdb.org/t/p/original/cezWGskPY5x7GaglTTRN4Fugfb8.jpg",
+      "rating": "8.1"
+
+    },
+    {
+      "judul": "Avengers: Age of Ultron",
+      "tahun": "2015",
+      "release": "01 May 2015",
+      "genre": " Action, Adventure, Sci-Fi ",
+      "direktur": "Joss Whedon",
+      "penulis": " Joss Whedon, Stan Lee (based on the Marvel comics by)",
+      "aktor": "Robert Downey Jr., Chris Evans, Mark Ruffalo",
+      "plot": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's mightiest heroes to stop the villainous Ultron from enacting his terrible plan.",
+      "poster": "https://image.tmdb.org/t/p/original/62UYrDBOuR07IZ0qefSUFkaWh3R.jpg",
+      "rating": "7.3"
+
+    },
+    {
+      "judul": "Captain America : Civil War",
+      "tahun": "2016",
+      "release": "12 April 2012",
+      "genre": "Action, Sci-Fi, Thriller",
+      "direktur": "Anthony Russo, Joe Russo",
+      "penulis": "Joss Whedon, Zak Penn, Joss Whedon",
+      "aktor": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",
+      "plot": "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man..",
+      "poster": "https://image.tmdb.org/t/p/original/5N20rQURev5CNDcMjHVUZhpoCNC.jpg",
+      "rating": "8.1"
+
+    },
+    {
+      "judul": "Captain America : The First Avenger",
+      "tahun": "2011",
+      "release": "22 july 2012",
+      "genre": "Actiot, Sci-Fi, Adventure",
+      "direktur": "Joe Johnston",
+      "penulis": " Christopher Markus, Stephen McFeely",
+      "aktor": " Chris Evans, Hugo Weaving, Samuel L. Jackson",
+      "plot": "Steve Rogers, a rejected military soldier transforms into Captain America after taking a dose of a Super-Soldier serum. But being Captain America comes at a price as he attempts to take down a war monger and a terrorist organization.",
+      "poster": "https://image.tmdb.org/t/p/original/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+      "rating": "6.9"
+
+    },
+    {
+      "judul": "Captain America : The Winter Soldier",
+      "tahun": "2014",
+      "release": "4 April 2012",
+      "genre": "Action, Adventure, Sci-Fi ",
+      "direktur": "Anthony Russo, Joe Russo",
+      "penulis": " Christopher Markus, Stephen McFeely",
+      "aktor": " Chris Evans, Hugo Weaving, Samuel L. Jackson, Scarlett Johansson",
+      "plot": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.",
+      "poster": "https://image.tmdb.org/t/p/original/5TQ6YDmymBpnF005OyoB7ohZps9.jpg",
+      "rating": "6.9"
+
+    },
+    {
+      "judul": "Ant-Man",
+      "tahun": "2015",
+      "release": "17 july 2015",
+      "genre": " Actitn, Adventure, Comedy",
+      "direktur": "Peyton Reed",
+      "penulis": "Edgar Wright (screenplay by), Joe Cornish (screenplay by)",
+      "aktor": "Paul Rudd, Michael Douglas, Corey Stoll",
+      "plot": "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, plan and pull off a heist that will save the world.",
+      "poster": "https://image.tmdb.org/t/p/original/D6e8RJf2qUstnfkTslTXNTUAlT.jpg",
+      "rating": "7.4"
+    },
+
+    {
+      "judul": "Doctor Strange",
+      "tahun": "2016",
+      "release": "04 Nov 2016",
+      "genre": "Action, Adventure, Fantasy",
+      "direktur": "Scott Derrickson",
+      "penulis": "Scott Derrickson, C. Robert Cargill, Jon Spaihts (story by), Scott Derrickson (story by), C. Robert Cargill (story by), Steve Ditko (comic book)",
+      "aktor": "Rachel McAdams, Benedict Cumberbatch, Mads Mikkelsen, Tilda Swinton",
+      "plot": "After his career is destroyed, a brilliant but arrogant and conceited surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+      "poster": "https://image.tmdb.org/t/p/original/4PiiNGXj1KENTmCBHeN6Mskj2Fq.jpg",
+      "rating": "7.4"
+    },
+    {
+      "judul": "Assassin's Creed",
+      "tahun": "2016",
+      "release": "21 Dec 2016",
+      "genre": "Action, Adventure, Fantasy",
+      "direktur": "justin Kurzel",
+      "penulis": "Btll Collage, Adam Cooper, Michael Lesslie",
+      "aktor": "Michael Fassbender, Michael Kenneth Williams, Marion Cotillard, Jeremy Irons",
+      "plot": "When Callum Lynch explores the memories of his ancestor Aguilar and gains the skills of a Master Assassin, he discovers he is a descendant of the secret Assassins society.",
+      "poster": "https://image.tmdb.org/t/p/original/tIKFBxBZhSXpIITiiB5Ws8VGXjt.jpg",
+      "rating": "5.4"
+    }
+  ]
+}
